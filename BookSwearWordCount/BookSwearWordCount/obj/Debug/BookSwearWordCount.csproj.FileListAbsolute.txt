@@ -1,0 +1,6 @@
+c:\users\scott\documents\visual studio 2015\Projects\BookSwearWordCount\BookSwearWordCount\bin\Debug\BookSwearWordCount.exe.config
+c:\users\scott\documents\visual studio 2015\Projects\BookSwearWordCount\BookSwearWordCount\bin\Debug\BookSwearWordCount.exe
+c:\users\scott\documents\visual studio 2015\Projects\BookSwearWordCount\BookSwearWordCount\bin\Debug\BookSwearWordCount.pdb
+c:\users\scott\documents\visual studio 2015\Projects\BookSwearWordCount\BookSwearWordCount\obj\Debug\BookSwearWordCount.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2015\Projects\BookSwearWordCount\BookSwearWordCount\obj\Debug\BookSwearWordCount.exe
+c:\users\scott\documents\visual studio 2015\Projects\BookSwearWordCount\BookSwearWordCount\obj\Debug\BookSwearWordCount.pdb
